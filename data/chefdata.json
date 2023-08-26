@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "645024f9a8d477b434665f3c",
+      "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/11/Aar%C3%B3n-Sanchez-top-famous-chefs-in-Mexico.jpeg",
+      "name": "Enrique Olvera",
+      "experience": "10 Years",
+      "recipes": "250",
+      "likes": "20,000",
+      "age": 30
+    },
+    {
+      "_id": "645024f9560fb0002b7eaead",
+      "chef_image": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+      "name": "Martha Ortiz",
+      "experience": "8 Years",
+      "recipes": "350",
+      "likes": "12,000",
+      "age": 32
+    },
+    {
+      "_id": "645024f91507b44c9fbf15de",
+      "chef_image": "https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?s=612x612&w=0&k=20&c=q9tScD01SPtN5QNAYgWG-ot4n_4hZXOgMStuFgmBFa8=",
+      "name": "Javier Plascencia",
+      "experience": "6 Years",
+      "recipes": "550",
+      "likes": "15,000",
+      "age": 27
+    },
+    {
+      "_id": "645024f9d4dba59b0f59cd15",
+      "chef_image": "https://www.yourfreecareertest.com/wp-content/uploads/2016/07/chef.jpg",
+      "name": "Gabriela Cámara",
+      "experience": "10 Years",
+      "recipes": "450",
+      "likes": "12,150",
+      "age": 24
+    },
+    {
+      "_id": "645024f9da67cdaac4289b0b",
+      "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5WQn0F0b0oWJ5sGqKUccXQ_qax-bobu3Qw&usqp=CAU",
+      "name": "Ricardo Muñoz Zurita",
+      "experience": "5 Years",
+      "recipes": "600",
+      "likes": "18,000",
+      "age": 33
+    },
+    {
+      "_id": "645024f9b31fe6adcb739ec5",
+      "chef_image": "https://www.webstaurantstore.com/uploads/guide/2022/9/chef-with-glasses-sirring-a-sauce-pot.jpg",
+      "name": "Enrique Olvera",
+      "experience": "13 Years",
+      "recipes": "300",
+      "likes": "30,000",
+      "age": 24
+    }
+  ]
